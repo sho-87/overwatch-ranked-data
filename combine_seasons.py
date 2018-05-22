@@ -24,21 +24,6 @@ for season in os.listdir(dir_data):
 
 data_all = pd.concat(data_seasons, axis=0, ignore_index=True)
 
-# specify column order
-col_order = ['season', 'Game #', 'Start SR', 'End SR', 'SR Change', 
-             'Team SR avg', 'Enemy SR avg', 'Team Stack', 'Enemy Stack', 
-             'Role 1', 'Role 2', 'Result', 'Streak', 'Leaver', 
-             'Map', 'Match Time',
-             'Gold medals', 'Silver medals', 'Bronze medals', 'No medals',
-             'Elim', 'Elim_career', 'Elim_medal', 
-             'Obj_kills', 'Obj_kills_career', 'Obj_kills_medal', 
-             'Obj_time', 'Obj_time_career', 'Obj_time_medal', 
-             'Dmg', 'Dmg_career', 'Dmg_medal', 
-             'Heal', 'Heal_career', 'Heal_medal', 
-             'Death', 'Death_career']
-
-data_all = data_all[col_order]
-
 # count the number of each medal type
 medal_cols = ['Elim_medal', 'Obj_kills_medal', 'Obj_time_medal',
               'Dmg_medal', 'Heal_medal']
@@ -52,6 +37,29 @@ medal_count.rename(columns={'Gold': 'Gold medals',
     
 data_all.update(medal_count)
 
-# sort and save dataset
+# add game mode column
+game_modes = {'Assault': ['Hanamura', 'Horizon Lunar Colony', 'Temple of Anubis', 'Volskaya Industries'],
+              'Escort': ['Dorado', 'Junkertown', 'Rialto', 'Route 66', 'Watchpoint: Gibraltar'],
+              'Assault/Escort': ['Blizzard World', 'Eichenwalde', 'Hollywood', "King's Row", 'Numbani'],
+              'Control': ['Ilios', 'Lijiang Tower', 'Nepal', 'Oasis']}
+
+game_modes = dict((v,k) for k in game_modes for v in game_modes[k])  # Invert
+
+data_all['Mode'] = data_all['Map'].replace(game_modes)
+
+# reorder, sort, and save
+col_order = ['season', 'Game #', 'Start SR', 'End SR', 'SR Change', 
+             'Team SR avg', 'Enemy SR avg', 'Team Stack', 'Enemy Stack', 
+             'Role 1', 'Role 2', 'Result', 'Streak', 'Leaver', 
+             'Map', 'Mode', 'Match Time',
+             'Gold medals', 'Silver medals', 'Bronze medals', 'No medals',
+             'Elim', 'Elim_career', 'Elim_medal', 
+             'Obj_kills', 'Obj_kills_career', 'Obj_kills_medal', 
+             'Obj_time', 'Obj_time_career', 'Obj_time_medal', 
+             'Dmg', 'Dmg_career', 'Dmg_medal', 
+             'Heal', 'Heal_career', 'Heal_medal', 
+             'Death', 'Death_career']
+
+data_all = data_all[col_order]
 data_all = data_all.sort_values(['season', 'Game #'])
 data_all.to_csv(os.path.join(dir_data, 'all_seasons.csv'), index=False)                   

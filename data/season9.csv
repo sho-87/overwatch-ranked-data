@@ -1,4 +1,4 @@
-Game #,Start SR,End SR,SR Change,Team SR avg,Enemy SR avg,Team Stack,Enemy Stack,Role 1,Role 2,Result,Streak,Leaver?,Map,Match Time,Elim,Elim_career,Elim_medal,Obj_kills,Obj_kills_career,Obj_kills_medal,Obj_time,Obj_time_career,Obj_time_medal,Dmg,Dmg_career,Dmg_medal,Heal,Heal_career,Heal_medal,Death,Death_career
+Game #,Start SR,End SR,SR Change,Team SR avg,Enemy SR avg,Team Stack,Enemy Stack,Role 1,Role 2,Result,Streak,Leaver,Map,Match Time,Elim,Elim_career,Elim_medal,Obj_kills,Obj_kills_career,Obj_kills_medal,Obj_time,Obj_time_career,Obj_time_medal,Dmg,Dmg_career,Dmg_medal,Heal,Heal_career,Heal_medal,Death,Death_career
 108,1806,1787,-19,1831,P,,,Support,,Loss,-1,No,Eichenwalde,15:08,24,21.8,Bronze,16,12.73,,01:49,01:32,,10615,5435,,9711,7844,,13,6.65
 109,1787,1787,0,1836,1847,,,Offense,Support,Draw,0,No,Temple of Anubis,08:19,24,19.62,,16,11.34,,00:19,01:27,,5973,5246,,1958,6651,,6,6.97
 110,1787,1812,25,1817,1818,,,Tank,,Win,1,No,Hanamura,10:42,16,19.59,None,4,11.27,None,00:39,01:27,Bronze,6959,5257,Silver,0,6594,None,5,6.95

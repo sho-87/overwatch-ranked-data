@@ -1,6 +1,5 @@
 # Overwatch Ranked Data
 
-## Background
 I have been recording data from my ranked [Overwatch](http://playoverwatch.com/) matches for a number of seasons and the dataset can be found in this repo.
 
 This originally started because I wanted to run some statistical models to understand my own gameplay better, which then turned into a series of [blog posts](https://www.simonho.ca/tag/overwatch/) on data visualization and statistics.

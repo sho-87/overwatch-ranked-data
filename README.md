@@ -22,4 +22,4 @@ The dataset contains data from each of my ranked matches, with variables like my
 
 In `/analysis` you'll find the Jupyter notebooks I created for my analysis of the data.
 
-I also uploaded this dataset to [Kaggle](https://www.kaggle.com/nem2k87/datasets), where you can find additional analyses by other users.
+I also uploaded this dataset to [Kaggle](https://www.kaggle.com/simonho87/overwatch-ranked-data), where you can find additional analyses by other users.

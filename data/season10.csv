@@ -1,0 +1,100 @@
+Game #,Start SR,End SR,SR Change,Team SR avg,Enemy SR avg,Team Stack,Enemy Stack,Role 1,Role 2,Result,Streak,Leaver,Map,Match Time,Elim,Elim_career,Elim_medal,Obj_kills,Obj_kills_career,Obj_kills_medal,Obj_time,Obj_time_career,Obj_time_medal,Dmg,Dmg_career,Dmg_medal,Heal,Heal_career,Heal_medal,Death,Death_career
+1,P,P,,P,P,2,2,Support,,Win,1,No,Oasis,08:31,20,23.87,None,17,20.29,Silver,03:15,03:53,Gold,5074,6056,None,8074,9636,Silver,6,7.16
+2,P,P,,P,P,4,5,Support,,Loss,-1,No,Temple of Anubis,06:48,3,15.35,Silver,2,12.68,Gold,00:23,02:26,Gold,2257,4893,Gold,4461,8367,Gold,8,9.34
+3,P,P,,P,P,3,3,Tank,,Win,1,No,Nepal,12:56,21,15.95,None,11,10.87,Bronze,01:21,01:48,None,7610,5414,None,2132,5315,Bronze,10,8.7
+4,P,P,,P,P,2,2,Tank,Offense,Loss,-1,No,Watchpoint: Gibraltar,14:02,17,14.69,None,8,9.15,None,03:50,02:07,Gold,7458,5396,None,0,3533,None,16,9.64
+5,P,P,,P,P,3,3,Support,Tank,Win,1,No,Blizzard World,10:02,23,16.34,Bronze,11,9.53,Bronze,01:31,02:01,Bronze,2736,4890,None,3340,3503,Silver,5,8.75
+6,P,P,,P,P,2,1,Support,,Loss,-1,No,Hanamura,10:11,4,14.33,None,0,7.98,None,00:38,01:47,Gold,1332,4309,None,7231,4109,Silver,10,8.95
+7,P,P,,P,P,3,5,Defense,Tank,Loss,-2,My team,Hollywood,12:15,22,14.96,Bronze,9,7.89,Gold,01:48,01:44,None,8076,4697,Bronze,0,3432,None,10,8.84
+8,P,P,,P,P,3,3,Tank,,Win,1,No,Junkertown,12:12,16,12.14,None,10,7.14,None,04:29,03:22,Gold,5460,4768,None,0,0,None,9,8.57
+9,P,P,,P,P,3,3,Support,,Win,2,No,Route 66,09:56,15,14.21,Bronze,13,7.94,Silver,03:24,01:45,Silver,3458,2434,None,5106,5387,Silver,5,6.27
+10,P,2414,,P,P,1,1,Support,,Loss,-1,No,King's Row,16:52,21,14.44,None,10,8.11,None,02:54,02:06,Silver,5805,4391,None,14575,4004,Silver,13,8.2
+11,2414,2388,-26,2363,2363,4,3,Support,,Loss,-2,No,Temple of Anubis,21:00,28,14.38,Bronze,21,8.48,Silver,02:28,01:58,Silver,9310,4433,None,12353,4334,Gold,19,8.4
+12,2388,2388,0,2355,2365,2,2,Support,Defense,Draw,0,No,King's Row,18:34,38,15.16,Silver,24,9.04,Gold,03:54,01:59,None,12659,4736,Silver,5858,4197,None,12,8.18
+13,2388,2367,-21,2244,2243,1,1,Support,,Loss,-1,My team,Horizon Lunar Colony,10:32,11,14.86,Silver,4,8.71,Bronze,00:31,01:53,Gold,3899,4673,Silver,10583,4584,Gold,8,8.15
+14,2367,2387,20,2341,2328,2,2,Tank,,Win,1,No,Lijiang Tower,12:49,20,13.96,None,9,7.17,None,01:35,02:23,Bronze,7186,5231,None,0,0,None,11,8.68
+15,2387,2363,-24,2363,2372,1,1,Support,,Loss,-1,No,Volskaya Industries,05:11,6,14.86,Bronze,1,8.41,Silver,00:42,01:50,Silver,2737,4771,Bronze,5223,4428,Silver,5,8.25
+16,2363,2340,-23,2356,2362,2,2,Support,,Loss,-2,No,Volskaya Industries,14:58,19,14.73,None,11,8.35,Bronze,01:11,01:45,Silver,3527,4593,None,11179,4672,Gold,11,8.19
+17,2340,2363,23,2347,2329,2,2,Support,,Win,1,No,Watchpoint: Gibraltar,08:57,8,14.48,None,2,8.08,None,02:54,01:49,Silver,1822,4483,None,8187,4875,Silver,3,7.98
+18,2363,2337,-26,2356,2347,2,2,Support,,Loss,-1,No,Dorado,14:31,14,14.16,None,3,7.68,Bronze,02:13,01:48,Bronze,6462,4484,None,11876,5099,Silver,14,8.1
+19,2337,2361,24,2292,2292,1,2,Tank,,Win,1,No,Lijiang Tower,15:36,39,18.18,Bronze,25,10.53,None,02:09,02:01,None,12837,6387,Silver,0,0,None,15,9.09
+20,2361,2339,-22,2343,2343,2,2,Tank,,Loss,-1,No,Eichenwalde,06:53,9,14.87,Silver,3,8.15,Bronze,00:24,01:45,Gold,2193,4700,None,693,4657,Bronze,6,8.23
+21,2339,2364,25,2340,2336,3,3,Support,,Win,1,No,Hanamura,13:30,23,14.99,None,14,8.27,Gold,01:12,01:42,Silver,4917,4646,None,7702,4716,Gold,8,8.11
+22,2364,2391,27,2384,2384,1,1,Support,,Win,2,Enemy team,Numbani,08:21,15,16.8,None,5,6.42,None,01:24,00:53,None,2423,3147,None,4315,5294,Silver,2,3.95
+23,2391,2416,25,2380,2383,2,2,Support,,Win,3,No,Oasis,06:33,16,15.28,None,7,9.73,Bronze,01:04,02:13,Silver,2515,3891,None,5681,8482,Gold,2,8.34
+24,2416,2391,-25,2466,2431,2,3,Tank,,Loss,-1,No,King's Row,15:31,12,15.38,None,9,9.26,Silver,04:20,02:14,Gold,5357,5602,None,0,0,None,15,9.26
+25,2391,2416,25,2363,2359,3,3,Tank,,Win,1,No,Ilios,12:14,25,15.17,None,16,8.35,Bronze,02:34,01:47,Silver,6678,4560,None,2994,4484,Bronze,5,7.77
+26,2416,2391,-25,2431,2435,4,3,Defense,Offense,Loss,-1,No,Eichenwalde,11:50,14,15.05,None,9,8.33,None,01:43,01:46,None,9594,4700,Gold,0,4312,None,15,7.97
+27,2391,2368,-23,2356,2360,1,1,Tank,Support,Loss,-2,No,Blizzard World,20:53,36,15.21,None,20,8.42,Silver,05:08,01:49,Gold,10521,4729,None,12149,4415,Silver,15,7.93
+28,2368,2346,-22,2342,P,1,1,Support,,Loss,-3,No,Horizon Lunar Colony,16:57,20,15.07,None,9,8.28,Silver,02:08,01:47,Gold,7022,4708,None,8191,4444,Silver,15,7.99
+29,2346,2370,24,2362,2360,1,1,Tank,,Win,1,No,Blizzard World,12:49,21,15.12,Bronze,13,8.35,Gold,03:17,01:49,Gold,7154,4741,None,0,4285,None,9,7.95
+30,2370,2346,-24,2348,2362,2,2,Tank,,Loss,-1,No,Route 66,21:23,26,14.97,None,13,8.23,Silver,05:44,01:52,Gold,12730,4816,Bronze,0,4046,None,15,7.91
+31,2346,2365,19,2346,2350,2,2,Tank,,Win,1,No,Temple of Anubis,14:58,14,13.47,None,7,7.09,None,01:04,01:59,Bronze,7414,5749,Bronze,0,0,None,12,8.71
+32,2365,2341,-24,2350,2343,2,2,Support,,Loss,-1,No,Eichenwalde,15:03,17,14.63,None,9,8.02,Silver,03:02,01:50,Bronze,6971,4817,None,11964,4044,Silver,16,8.02
+33,2341,2367,26,P,2330,2,3,Tank,,Win,1,Enemy team,Junkertown,07:37,29,15.25,None,11,7.63,None,02:38,02:05,Silver,4537,5772,Bronze,0,0,None,0,8.1
+34,2367,2389,22,2313,2310,1,1,Support,,Win,2,No,Nepal,06:06,14,16.59,None,10,10.24,Bronze,00:43,02:13,Bronze,2065,4013,None,4519,8312,Silver,4,8.37
+35,2389,2409,20,P,P,2,2,Support,,Win,3,No,King's Row,15:57,23,15.17,None,10,8.19,None,02:48,01:51,Bronze,6678,4798,None,11350,4137,Silver,14,7.89
+36,2409,2432,23,2458,2457,1,1,Tank,,Win,4,No,Hollywood,12:53,24,15.63,None,16,8.15,Bronze,03:31,02:09,Gold,8340,5854,Bronze,0,0,None,8,7.9
+37,2432,2432,0,2449,2417,2,3,Tank,,Draw,0,No,Hanamura,08:14,7,15.19,None,2,7.79,None,00:09,02:02,None,6614,6004,Silver,0,0,None,7,7.95
+38,2432,2408,-24,2450,2448,4,2,Support,,Loss,-1,No,Oasis,13:28,19,15.14,None,13,8.26,Silver,02:21,01:51,Gold,4398,4864,None,10127,4053,Silver,15,7.96
+39,2408,2388,-20,2498,2499,1,1,Support,,Loss,-2,No,Lijiang Tower,14:21,17,15.05,None,9,8.21,None,01:32,01:49,Bronze,3895,4803,None,12688,4198,Gold,14,8.02
+40,2388,2409,21,2346,2365,2,2,Tank,Defense,Win,1,No,Watchpoint: Gibraltar,20:22,35,15.15,None,16,8.2,None,06:12,01:52,Bronze,13891,4889,Silver,0,4032,None,12,7.94
+41,2409,2435,26,2353,2341,1,2,Support,,Win,2,No,Eichenwalde,05:17,18,15.35,Silver,1,8.14,Bronze,00:16,01:52,Gold,2807,4895,None,5756,4105,Gold,1,7.88
+42,2435,2462,27,2543,2541,1,1,Tank,,Win,3,No,Rialto,15:41,30,15.35,None,15,7.88,Silver,05:37,02:11,Gold,9824,5977,None,0,0,None,9,7.88
+43,2462,2437,-25,P,P,1,1,Support,Defense,Loss,-1,No,Horizon Lunar Colony,14:38,11,15.27,None,5,8.06,Bronze,01:20,01:53,Silver,5377,4909,None,7807,4024,Silver,17,7.93
+44,2437,2460,23,P,P,2,2,Tank,,Win,1,No,Hanamura,14:46,40,16.44,Bronze,24,8.65,Bronze,02:58,02:10,Gold,11751,6163,Bronze,0,0,None,7,7.6
+45,2460,2430,-30,2518,2513,1,2,Tank,,Loss,-1,No,Eichenwalde,16:21,11,15.55,None,7,8.25,None,04:31,02:13,Gold,7073,5997,None,0,0,None,17,7.86
+46,2430,2402,-28,2433,2439,1,1,Defense,Tank,Loss,-2,No,Ilios,08:37,12,15.32,None,6,8.15,Bronze,00:25,01:54,None,5126,4989,Bronze,1844,3781,Bronze,6,7.91
+47,2402,2423,21,2195,2203,1,1,Tank,,Win,1,No,Junkertown,18:21,28,15.32,None,11,8.09,Bronze,05:04,01:55,Silver,12457,5045,Silver,0,3665,None,11,7.85
+48,2423,2401,-22,P,P,3,3,Defense,Offense,Loss,-1,No,Lijiang Tower,06:14,10,15.33,Gold,3,8.06,Gold,00:24,01:55,Gold,5268,5082,Gold,307,3633,None,7,7.89
+49,2401,2380,-21,2473,2476,3,2,Support,,Loss,-2,No,Route 66,10:47,9,15.21,None,5,8,Silver,03:51,01:56,Silver,3896,5057,None,8691,3712,Gold,9,7.9
+50,2380,2402,22,2323,2337,2,4,Tank,,Win,1,No,Dorado,17:35,38,15.4,Bronze,21,8.11,Silver,05:31,01:58,Bronze,11332,5100,None,0,3611,None,10,7.84
+51,2402,2377,-25,P,P,2,2,Support,,Loss,-1,No,King's Row,16:43,25,15.39,None,10,8.06,Bronze,01:48,01:57,None,8439,5099,None,5728,3607,Silver,17,7.91
+52,2377,2398,21,2394,2402,2,3,Support,Tank,Win,1,No,Watchpoint: Gibraltar,16:02,26,15.42,None,15,8.09,Silver,02:04,01:56,Bronze,6614,5077,None,2550,3559,Bronze,11,7.88
+53,2398,2375,-23,2563,2559,1,1,Tank,,Loss,-1,No,Hanamura,07:15,6,15.18,Silver,3,8.13,Gold,01:08,02:12,Gold,5203,6212,None,0,0,None,8,7.94
+54,2375,2352,-23,2355,2355,2,2,Support,,Loss,-2,No,Nepal,14:49,17,15.27,None,7,7.98,None,01:40,01:55,Gold,5752,5077,None,7029,3549,Silver,11,7.91
+55,2352,2379,27,2368,2354,1,2,Support,,Win,1,No,Volskaya Industries,05:44,14,15.06,Bronze,4,8.56,Silver,00:19,02:09,Silver,2654,3815,None,5191,7726,Silver,2,8.74
+56,2379,2402,23,2355,2359,3,2,Offense,Defense,Win,2,No,Rialto,13:01,28,15.46,Silver,8,7.95,None,02:13,01:54,None,13547,5174,Gold,0,3530,None,10,7.87
+57,2402,2432,30,2411,2417,3,3,Support,,Win,3,No,Ilios,09:09,19,15.51,Bronze,15,9.16,Gold,02:51,02:13,Gold,4044,3865,None,7629,7781,Gold,3,8.33
+58,2432,2457,25,2404,2413,2,1,Support,,Win,4,No,King's Row,15:21,22,15.51,None,9,8.01,None,01:57,01:54,None,4924,5125,None,13154,3698,Gold,10,7.79
+59,2457,2486,29,2473,P,1,1,Support,Tank,Win,5,No,Temple of Anubis,14:17,35,15.69,Gold,17,8.09,Bronze,02:16,01:54,Gold,9440,5156,None,7543,3731,Bronze,8,7.75
+60,2486,2521,35,2448,2475,2,4,Support,,Win,6,No,Lijiang Tower,07:30,27,21.5,Silver,14,10.33,Silver,01:01,01:34,Gold,4619,5395,Bronze,5893,9387,Gold,3,7.09
+61,2521,2553,32,P,2529,2,2,Support,,Win,7,No,Watchpoint: Gibraltar,09:05,11,15.86,None,6,8.18,Gold,01:43,01:54,Bronze,6051,5186,Bronze,9409,3853,Gold,3,7.66
+62,2553,2573,20,2531,2533,1,1,Support,,Win,8,No,Route 66,05:21,0,0,None,0,0,None,00:50,01:08,Silver,0,148,None,4202,8718,Silver,1,6.87
+63,2573,2598,25,2623,2621,2,2,Support,,Win,9,No,Blizzard World,12:36,34,15.94,Bronze,13,8.16,Gold,03:12,01:54,Gold,5284,5136,None,8875,3934,Gold,4,7.55
+64,2598,2623,25,2584,2576,3,2,Support,,Win,10,No,Hollywood,19:07,56,16.27,Gold,33,8.39,Gold,03:49,01:54,Bronze,11540,5161,None,17258,4060,Gold,12,7.53
+65,2623,2623,0,2535,2531,2,2,Support,,Draw,0,No,Volskaya Industries,18:23,33,16.32,Silver,18,8.42,Gold,02:00,01:53,Bronze,8172,5149,None,14700,4152,Gold,10,7.49
+66,2623,2595,-28,2540,2560,3,4,Defense,Tank,Loss,-1,No,Hollywood,11:55,10,16.21,None,4,8.35,None,01:36,01:53,Bronze,4565,5130,None,0,4092,None,12,7.52
+67,2595,2572,-23,2450,2456,2,2,Support,,Loss,-2,No,Blizzard World,13:31,26,16.26,Gold,5,8.28,Silver,01:18,01:52,None,7805,5141,None,13316,4186,Gold,9,7.51
+68,2572,2596,24,2489,2488,1,2,Support,,Win,1,No,Volskaya Industries,13:47,25,16.29,None,12,8.29,Silver,01:54,01:52,Gold,5795,5127,None,13205,4274,Gold,8,7.48
+69,2596,2614,18,2488,2487,1,2,Tank,,Win,2,No,Oasis,07:55,11,15.48,None,3,8.25,None,01:13,02:12,Bronze,4013,6238,Bronze,0,0,None,5,7.88
+70,2614,2593,-21,2719,2713,1,1,Support,,Loss,-1,No,Dorado,15:39,26,16.29,Bronze,16,8.29,Silver,05:00,01:53,Silver,5450,5101,None,12774,4309,Gold,9,7.45
+71,2593,2615,22,2632,2638,2,1,Support,,Win,1,No,Ilios,11:30,9,16.18,None,5,8.24,None,01:03,01:52,None,1360,5051,None,9971,4366,Gold,8,7.44
+72,2615,2634,19,2660,2661,2,2,Support,,Win,2,Enemy team,King's Row,,,,,,,,,,,,,,,,,,
+73,2634,2612,-22,2717,2717,1,2,Tank,Defense,Loss,-1,No,Temple of Anubis,16:28,24,16.13,Gold,8,8.17,Gold,01:26,01:51,Gold,7929,5036,None,2279,4313,Bronze,13,7.45
+74,2612,2637,25,2641,2644,3,3,Tank,,Win,1,No,Oasis,09:22,21,16.2,Bronze,15,8.25,Bronze,02:05,01:51,Gold,4007,5029,Bronze,0,4269,None,6,7.44
+75,2637,2662,25,2688,2687,2,3,Support,,Win,2,No,Lijiang Tower,15:43,31,16.26,None,21,8.34,Silver,03:15,01:51,Gold,7282,5024,None,12537,4334,Silver,11,7.44
+76,2662,2638,-24,2710,P,2,2,Support,,Loss,-1,No,Watchpoint: Gibraltar,12:19,18,16.24,None,7,8.31,Gold,01:11,01:51,Bronze,4445,5006,None,9593,4379,Silver,10,7.45
+77,2638,2613,-25,2761,2757,2,1,Support,,Loss,-2,No,Route 66,14:47,17,16.17,None,12,8.31,Gold,04:36,01:52,Gold,4039,4972,None,10495,4422,Gold,8,7.42
+78,2613,2635,22,2593,2577,2,2,Tank,,Win,1,No,Horizon Lunar Colony,13:26,19,15.49,None,10,8.4,Bronze,01:16,02:08,Bronze,6954,6105,None,0,0,None,10,7.85
+79,2635,2656,21,2651,2648,2,2,Support,,Win,2,No,Dorado,16:12,21,16.1,None,8,8.24,None,03:57,01:52,Silver,5437,4951,None,9800,4391,Silver,14,7.44
+80,2656,2631,-25,2686,2708,1,2,Tank,,Loss,-1,No,Lijiang Tower,14:05,25,16.13,Bronze,16,8.29,None,02:25,01:52,Silver,7398,4957,None,1412,4345,Bronze,8,7.42
+81,2631,2607,-24,2594,P,1,2,Support,Offense,Loss,-2,No,Hollywood,06:12,7,16.1,Bronze,2,8.26,Bronze,00:05,01:51,None,2104,4948,Bronze,6831,4387,Gold,5,7.42
+82,2607,2630,23,2623,2624,2,2,Support,,Win,1,No,Dorado,05:48,1,16.02,None,1,8.23,None,00:38,01:51,Bronze,160,4922,None,4852,4410,Gold,2,7.4
+83,2630,2655,25,2664,2642,4,5,Tank,,Win,2,No,Junkertown,13:57,30,15.83,Bronze,16,8.57,Gold,05:52,02:15,Gold,9534,6149,Bronze,0,0,None,6,7.66
+84,2655,2679,24,2696,2695,3,4,Support,,Win,3,No,Volskaya Industries,10:54,18,16.12,None,12,8.3,Silver,01:30,01:52,Silver,4161,4940,None,5897,4365,Silver,8,7.37
+85,2679,2656,-23,2693,2693,1,1,Support,,Loss,-1,No,Nepal,06:39,5,15.82,Bronze,0,9.41,None,00:18,02:16,Bronze,2767,3829,None,4797,7677,Silver,6,8.29
+86,2656,2678,22,2632,P,4,3,Tank,,Win,1,No,Horizon Lunar Colony,12:03,29,16.16,Bronze,13,8.28,Silver,01:19,01:51,Gold,9973,4976,Silver,0,4335,None,8,7.37
+87,2678,2652,-26,2626,2596,1,1,Tank,Offense,Loss,-1,No,Numbani,15:24,19,16.11,None,11,8.27,None,01:52,01:51,None,7659,4976,None,882,4281,None,10,7.36
+88,2652,2675,23,2642,2646,2,1,Tank,,Win,1,No,Oasis,09:26,19,16.1,None,9,8.53,Gold,01:04,02:09,Gold,6691,6307,Silver,0,0,None,7,7.64
+89,2675,2650,-25,2664,2655,2,2,Tank,,Loss,-1,No,Ilios,09:30,10,16.1,None,2,8.23,None,00:47,01:50,Bronze,3942,4990,None,0,4208,None,10,7.39
+90,2650,2672,22,2655,2655,2,2,Support,,Win,1,No,Watchpoint: Gibraltar,12:26,14,16.05,None,7,8.2,None,01:48,01:50,None,2964,4961,None,7984,4234,Silver,11,7.41
+91,2672,2649,-23,2638,2640,2,2,Support,Tank,Loss,-1,No,Horizon Lunar Colony,06:28,3,15.98,Silver,1,8.16,Gold,00:07,01:49,Gold,2388,4954,Bronze,262,4212,None,6,7.42
+92,2649,2623,-26,2637,2648,3,3,Support,,Loss,-2,No,Temple of Anubis,12:27,20,15.99,None,6,8.13,Silver,00:32,01:48,Gold,3527,4931,None,9359,4250,Silver,6,7.39
+93,2623,2600,-23,2595,2600,4,4,Support,,Loss,-3,No,King's Row,17:26,22,15.94,None,14,8.13,None,03:09,01:48,Bronze,6230,4913,None,15533,4323,Gold,12,7.39
+94,2600,2575,-25,2593,2586,2,2,Tank,Support,Loss,-4,No,Oasis,05:49,2,15.88,None,1,8.1,Gold,00:21,01:48,None,3038,4915,None,2640,4325,Gold,6,7.4
+95,2575,2598,23,2592,2596,2,2,Support,,Win,1,No,Horizon Lunar Colony,15:02,33,15.96,None,12,8.1,Gold,01:47,01:47,Silver,4697,4892,None,12928,4381,Silver,9,7.39
+96,2598,2617,19,2585,2553,2,4,Tank,,Win,2,No,Watchpoint: Gibraltar,10:44,18,15.97,None,6,8.08,None,01:25,01:47,None,2866,4872,None,0,4341,None,6,7.37
+97,2617,2593,-24,2596,2603,3,4,Tank,,Loss,-1,No,Volskaya Industries,12:59,14,15.92,None,7,8.05,None,01:21,01:47,Silver,7549,4883,Bronze,0,4294,None,11,7.38
+98,2593,2569,-24,2585,2588,1,1,Support,,Loss,-2,No,Rialto,11:27,14,15.88,None,8,8.04,Bronze,03:11,01:47,Silver,6147,4889,Bronze,6793,4310,Gold,10,7.4
+99,2569,2543,-26,P,2577,2,2,Support,Offense,Loss,-3,No,Route 66,11:56,25,15.93,Bronze,13,8.07,Gold,01:20,01:47,None,7635,4904,Bronze,3760,4299,Bronze,11,7.42
